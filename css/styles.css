@@ -1,0 +1,89 @@
+.header {
+    text-align: right;
+    color: azure;
+    background-color: darkslategrey;
+    background-image: url("../assets/image0.jpg");
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: 39%;
+}
+
+.sections {
+    color: dodgerblue;
+}
+
+.row {
+    display: flex;
+}
+
+.time-and-names {
+    width: 20%;
+    padding-right: 8px;
+}
+
+.description {
+    width: 80%;
+}
+
+.left-table {
+    width: 30%;
+    padding-right: 8px;
+}
+
+.right-table {
+    width: 70%;
+}
+
+.left-col {
+    padding-right: 5px;
+}
+
+.md-col {
+    padding-right: 5px;
+    padding-left: 100px;
+}
+
+.cell-border {
+    padding-right: 5px;
+    padding-left: 5px;
+    border-right: 1px solid dodgerblue;
+}
+
+.footer{
+    background: gray;
+    text-align: end;
+    background-image: url("../assets/eyes.gif");
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: 50% 160%;
+}
+
+.footer-text {
+    color: azure;
+}
+
+img {
+    width: 25px;
+    height: 25px;
+}
+
+#AptLast {
+    padding-left: 5px;
+}
+
+footer > ul  {
+    list-style: none;
+
+}
+
+#Github {
+    padding-right: 50px;
+}
+
+#Linkedin {
+    padding-right: 10px;
+}
+
+#Linkedin > a > img {
+    width: 100px;
+}
